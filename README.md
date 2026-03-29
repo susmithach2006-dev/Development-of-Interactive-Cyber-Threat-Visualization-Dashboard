@@ -19,9 +19,9 @@ This repository is organized into the following sections for institute evaluatio
 * *PPT:* [Link to your Presentation file]
 
 ### 2. Research & Tasks
-* *Model Research:* [Detailed Research PDF](./Model%20Research.pdf)
-* *Python Implementation:* [Jupyter Notebook](./Python_Task.ipynb)
-* *Data Analysis (SQL):* [SQL Task Script](./SQL_Task.ipynb)
+* *Model Research:* [Detailed Research PDF](./Models for Cyber Threat Analysis.pdf)
+* *Python Implementation:* [Jupyter Notebook](./oop python task.pdf)
+* *Data Analysis (SQL):* [SQL Task Script](./sql task.pdf)
 
 ### 3. Technical Core
 The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/susmithach2006-dev/Cybernexus)** to ensure a clean separation between documentation and production code.
