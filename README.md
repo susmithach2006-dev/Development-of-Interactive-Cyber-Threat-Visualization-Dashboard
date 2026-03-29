@@ -24,7 +24,7 @@ This repository is organized into the following sections for institute evaluatio
 * *Data Analysis (SQL):* [SQL Task Script](./SQL_Task.ipynb)
 
 ### 3. Technical Core
-The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/Arpita0704AD2110/Cybernexus)** to ensure a clean separation between documentation and production code.
+The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/susmithach2006-dev/Cybernexus)** to ensure a clean separation between documentation and production code.
 
 ---
 
